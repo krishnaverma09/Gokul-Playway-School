@@ -19,6 +19,7 @@
     list-style: none;
     gap: 25px;
     align-items: center;
+    cursor: pointer;
 }
 .header .navigation img{
     height: 55px;
